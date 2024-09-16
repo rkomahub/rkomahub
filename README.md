@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @rkomahub
 - 👀 I’m interested in Physics, Computing and their applications
-- 💞️ I’m looking to collaborate on computational physics projects
-- 📫 How to reach me marco.benazzi@icloud.com
+- 📫 How to reach me: marco.benazzi@icloud.com
